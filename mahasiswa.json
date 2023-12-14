@@ -1,0 +1,42 @@
+[
+  {
+    "nama": "Budi",
+    "npm": "112233",
+    "umur": 23,
+    "alamat": "kertjaya",
+    "ids": 1,
+    "nomerHP": "088912"
+  },
+  {
+    "nama": "Richard",
+    "npm": "2233114",
+    "umur": 43,
+    "alamat": "Dmakr",
+    "ids": 2,
+    "nomerHP": "091241"
+  },
+  {
+    "nama": "Mock",
+    "npm": "238911",
+    "umur": 12,
+    "alamat": "Denmark",
+    "ids": 2,
+    "nomerHP": "081231"
+  },
+  {
+    "nama": "Liran",
+    "npm": "098121",
+    "umur": 92,
+    "alamat": "Nick",
+    "ids": 1,
+    "nomerHP": "0912221"
+  },
+  {
+    "nama": "Larry",
+    "npm": "129921",
+    "umur": 32,
+    "alamat": "Butin",
+    "ids": 2,
+    "nomerHP": "0216611"
+  }
+]
